@@ -27,10 +27,10 @@ Universitas Negeri Surabaya
 
 
 
-1.	[!DOCTYPE html]: Ini adalah deklarasi tipe dokumen HTML yang digunakan dalam dokumen. Ini memberi tahu browser bahwa ini adalah dokumen HTML.
-2.	<html lang="en">: Ini adalah elemen root yang membungkus seluruh konten halaman web. 
+[!DOCTYPE html]: Ini adalah deklarasi tipe dokumen HTML yang digunakan dalam dokumen. Ini memberi tahu browser bahwa ini adalah dokumen HTML.
+<html lang="en">: Ini adalah elemen root yang membungkus seluruh konten halaman web. 
 Atribut lang mengindikasikan bahwa bahasa yang digunakan dalam dokumen adalah bahasa Inggris (English).
-3.	<head>: Bagian ini mengandung informasi tentang halaman web, seperti meta tag, judul halaman, dan tautan ke berkas-berkas eksternal seperti CSS.
+<head>: Bagian ini mengandung informasi tentang halaman web, seperti meta tag, judul halaman, dan tautan ke berkas-berkas eksternal seperti CSS.
 •	<meta charset="UTF-8">: Menentukan bahwa karakter set yang digunakan dalam halaman web adalah UTF-8, yang mendukung karakter internasional.
 •	<meta name="viewport" content="width=device-width, initial-scale=1.0">: Ini adalah pengaturan untuk mengatur tampilan halaman web di perangkat seluler. Itu akan mengizinkan tampilan responsif pada perangkat berlayar kecil.
 •	<title>tugas</title>: Ini adalah judul dari halaman web yang akan ditampilkan di tab browser.
