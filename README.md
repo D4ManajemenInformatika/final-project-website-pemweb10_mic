@@ -1,3 +1,61 @@
+Spesifikasi Kebutuhan Perangkat Lunak 
+untuk Website SiCakies 
+
+Versi 1.0 Disetujui 
+ 
+Disusun Oleh : 
+1. Muhammad Rizal Ma’arif	(22091397086)  2022C 
+2. Ananda Veda Basunjaya    (22091397098)  2022C 
+3. Anis Putri Purwanti 		(22091397107)  2022C 
+ 
+D4 Manajemen Informatika 2022 C
+Fakultas Vokasi 
+Universitas Negeri Surabaya 
+ 
+Tahun 2023
+
+DAFTAR ISI  
+ 
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+1.2 Tujuan
+1.3 Konvesi Dokumen
+1.4 Audiens yang Dituju dan Saran Bacaan
+1.5 Cakupan Produk
+1.6 Referensi
+
+BAB II
+DESKRIPSI KESELURUHAN
+2.1 Perspektif Produk
+2.2 Fungsi Produk
+2.3 Kelas Pengguna dan Karakteristik
+2.4 Lingkup Operasi
+2.5 Kendala Desain dan Implementasi
+2.6 Dokumentasi Pengguna
+2.7 Asumsi dan Ketergantungan
+
+BAB III
+PERSYARATAN ANTARMUKA EKSTERNAL
+3.1 Antarmuka Pengguna
+3.2 Antarmuka Perangkat Keras
+3.3 Antarmuka Perangkat Lunak
+
+BAB IV	13 
+FITUR SISTEM DAN KERANGKA DESAIN FITUR
+4.1 Halaman Daftar
+	4.1.1 Deskripsi dan Prioritas
+    4.1.2 Kebutuhan Fungsional
+4.2 Halaman Login
+    4.2.1 Deskripsi Prioritas
+    4.2.2 Kebutuhan Fungsional
+4.3 Halaman Pembelian
+    4.3.1 Deskripsi dan Prioritas
+    4.3.2 Kebutuhan Fungsional
+4.4 Detail Ekspedisi Pengiriman
+    4.4.1 Deskripsi dan Prioritas
+    4.4.2 Kebutuhan Fungsional
+
 Laporan Tugas Pemrograman Web SRS Si Cookies
 
 Disusun oleh:
