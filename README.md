@@ -32,19 +32,19 @@ Universitas Negeri Surabaya
 ![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/124486941/820cd24c-c5e0-464e-8735-a1824389abe7)
 
 
- [body]: Ini adalah elemen HTML yang menunjukkan awal dari konten halaman web yang akan ditampilkan kepada pengguna. Semua elemen HTML yang terlihat di halaman web akan ditempatkan di dalam elemen <body> ini.
+ [body]: Ini adalah elemen HTML yang menunjukkan awal dari konten halaman web yang akan ditampilkan kepada pengguna. Semua elemen HTML yang terlihat di halaman web akan ditempatkan di dalam elemen body ini.
  
 [nav]: Ini adalah elemen HTML yang digunakan untuk menentukan bagian navigasi dalam halaman web. Biasanya, elemen ini berisi tautan-tautan menu untuk membantu pengguna berpindah antara halaman atau bagian halaman web.
 
 [div class="wrapper"]: Ini adalah elemen div dengan atribut class yang disebut "wrapper." Elemen div digunakan untuk mengelompokkan atau mengelencengkan sejumlah elemen HTML untuk mengaplikasikan gaya CSS atau JavaScript tertentu. Di sini, "wrapper" mungkin digunakan untuk mengelompokkan elemen-elemen lain dalam tampilan yang sama.
 
-[div class="judul"]: Ini adalah elemen div dengan atribut class yang disebut "judul." Sepertinya ini digunakan untuk mengelompokkan judul atau logo situs web. Terdapat juga sebuah tautan (<a>) yang kosong di dalamnya yang kemungkinan besar akan ditautkan ke halaman beranda atau ke URL lain.
+[div class="judul"]: Ini adalah elemen div dengan atribut class yang disebut "judul." Sepertinya ini digunakan untuk mengelompokkan judul atau logo situs web. Terdapat juga sebuah tautan (a) yang kosong di dalamnya yang kemungkinan besar akan ditautkan ke halaman beranda atau ke URL lain.
 
 [div class="menu"]: Ini adalah elemen div dengan atribut class yang disebut "menu." Ini mungkin digunakan untuk mengelompokkan elemen-elemen menu.
 
 [ul]: Ini adalah elemen unordered list (daftar tak terurut) yang digunakan untuk membuat daftar item yang berisi tautan menu.
 
-[li]: Ini adalah elemen list item yang merupakan anak-anak dari elemen <ul>. Setiap <li> adalah item dalam daftar menu.
+[li]: Ini adalah elemen list item yang merupakan anak-anak dari elemen ul. Setiap li adalah item dalam daftar menu.
 
 [a]: Ini adalah elemen anchor (tautan) yang digunakan untuk membuat tautan ke halaman lain atau ke bagian lain di halaman web yang saat ini dilihat. Setiap tautan memiliki atribut href yang menentukan URL tautan.
 
@@ -60,11 +60,11 @@ Universitas Negeri Surabaya
 
 Atribut id "home" digunakan untuk mengidentifikasi elemen ini secara unik, yang dapat digunakan untuk menghubungkannya dengan tautan tertentu atau gaya CSS khusus.
 
-<img src="logo.png" width="40%">: Ini adalah elemen gambar (<img>) yang menampilkan gambar dengan atribut src yang merujuk pada file gambar "logo.png." Atribut width digunakan untuk mengatur lebar gambar menjadi 40% lebar elemen yang mengandung gambar ini. [div class="kolom"]: Ini adalah elemen div dengan atribut class "kolom."
+img src="logo.png" width="40%": Ini adalah elemen gambar (img) yang menampilkan gambar dengan atribut src yang merujuk pada file gambar "logo.png." Atribut width digunakan untuk mengatur lebar gambar menjadi 40% lebar elemen yang mengandung gambar ini. [div class="kolom"]: Ini adalah elemen div dengan atribut class "kolom."
 
 Sepertinya ini digunakan untuk mengelompokkan konten teks yang akan ditampilkan dalam kolom tertentu. [h2]SELAMAT DATANG[/h2]: Ini adalah elemen heading level 2 yang berisi teks "SELAMAT DATANG." Heading digunakan untuk menyoroti judul atau bagian penting dari konten.
 
-[p style="text-indent: 45px;"] ... [/p]: Ini adalah elemen paragraf (<p>) dengan gaya CSS inline yang mengatur tata letak paragraf.
+[p style="text-indent: 45px;"] ... [/p]: Ini adalah elemen paragraf (p) dengan gaya CSS inline yang mengatur tata letak paragraf.
 
 Gaya CSS "text-indent: 45px" digunakan untuk membuat indentasi teks sebesar 45 piksel. Paragraf ini berisi deskripsi tentang produk Cakies atau Cake and Cookies.
 
@@ -116,15 +116,15 @@ pGo Food p: Ini adalah elemen paragraf yang berisi teks "Go Food," yang mungkin 
 
 ![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/124486941/83a7a8da-d878-4754-af91-62ed24f09f15)
 
-<div id="contact">: Ini adalah elemen div dengan atribut id "contact." Elemen ini mungkin digunakan untuk mengelompokkan konten yang berkaitan dengan informasi kontak, seperti alamat dan rincian kontak.
-<div class="wrapper">: Ini adalah elemen div dengan atribut class "wrapper." Sepertinya ini digunakan untuk mengelencengkan konten ke tengah atau untuk mengaplikasikan gaya tertentu pada bagian ini.
-<div class="footer">: Ini adalah elemen div dengan atribut class "footer." Elemen ini mungkin digunakan untuk mengelencengkan dan mengelompokkan konten di dalam bagian footer halaman web.
-<div class="footer-section">: Ini adalah elemen div dengan atribut class "footer-section." Sepertinya ini digunakan untuk mengelencengkan setiap bagian dalam footer, termasuk "SI CAKIES," "Contact," dan "Social."
-<h3>SI CAKIES</h3>: Ini adalah elemen heading level 3 yang berisi teks "SI CAKIES." Ini mungkin digunakan untuk menyoroti nama atau judul halaman web.
-<h3>Contact</h3>: Ini adalah elemen heading level 3 yang berisi teks "Contact." Ini digunakan untuk menandai bagian yang berisi informasi kontak.
-Alamat dan rincian kontak: Informasi kontak seperti alamat fisik, nomor telepon, dan kode pos diberikan dalam elemen paragraf (<p>). Ini adalah informasi kontak yang dapat digunakan oleh pengguna untuk menghubungi pemilik situs web.
-<h3>Social</h3>: Ini adalah elemen heading level 3 yang berisi teks "Social." Ini mungkin digunakan untuk menandai bagian yang berisi tautan ke akun media sosial.
-<div id="copyright">: Ini adalah elemen div dengan atribut id "copyright." Elemen ini mungkin digunakan untuk mengelompokkan informasi hak cipta.
+div id="contact": Ini adalah elemen div dengan atribut id "contact." Elemen ini mungkin digunakan untuk mengelompokkan konten yang berkaitan dengan informasi kontak, seperti alamat dan rincian kontak.
+div class="wrapper": Ini adalah elemen div dengan atribut class "wrapper." Sepertinya ini digunakan untuk mengelencengkan konten ke tengah atau untuk mengaplikasikan gaya tertentu pada bagian ini.
+div class="footer": Ini adalah elemen div dengan atribut class "footer." Elemen ini mungkin digunakan untuk mengelencengkan dan mengelompokkan konten di dalam bagian footer halaman web.
+div class="footer-section": Ini adalah elemen div dengan atribut class "footer-section." Sepertinya ini digunakan untuk mengelencengkan setiap bagian dalam footer, termasuk "SI CAKIES," "Contact," dan "Social."
+h3SI CAKIES/h3: Ini adalah elemen heading level 3 yang berisi teks "SI CAKIES." Ini mungkin digunakan untuk menyoroti nama atau judul halaman web.
+h3Contact/h3: Ini adalah elemen heading level 3 yang berisi teks "Contact." Ini digunakan untuk menandai bagian yang berisi informasi kontak.
+Alamat dan rincian kontak: Informasi kontak seperti alamat fisik, nomor telepon, dan kode pos diberikan dalam elemen paragraf (p). Ini adalah informasi kontak yang dapat digunakan oleh pengguna untuk menghubungi pemilik situs web.
+h3Socia/h3: Ini adalah elemen heading level 3 yang berisi teks "Social." Ini mungkin digunakan untuk menandai bagian yang berisi tautan ke akun media sosial.
+div id="copyright": Ini adalah elemen div dengan atribut id "copyright." Elemen ini mungkin digunakan untuk mengelompokkan informasi hak cipta.
 
 B. CSS
 
@@ -192,49 +192,49 @@ C. HTML LOGIN
 
 ![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/120777302/6acd93f0-1c35-4ee9-a688-c7f8a54785d5)
 
-<div class="wrapper">: Ini adalah elemen pembungkus atau wadah utama yang mungkin digunakan untuk mengelompokkan elemen-elemen yang ada di dalamnya. Ini adalah elemen yang membatasi area konten.
-<div class="title-text">: Ini adalah elemen yang digunakan untuk menampilkan teks judul.
-<div class="title login"> dan <div class="title signup">: Ini adalah elemen-elemen yang digunakan untuk menampilkan judul "Form Login" dan "Form Registrasi". Masing-masing elemen memiliki class yang mungkin digunakan untuk menggaya atau memanipulasi tampilan teks.
-<div class="form-container">: Ini adalah elemen yang digunakan untuk mengelompokkan elemen-elemen yang terkait dengan formulir login dan pendaftaran.
-<div class="slide-controls">: Ini adalah elemen yang digunakan untuk mengendalikan tab atau geseran antara formulir login dan pendaftaran.
-<input type="radio" name="slide" id="login" checked> dan <input type="radio" name="slide" id="signup">: Ini adalah elemen-elemen input radio yang digunakan untuk memilih antara formulir login dan pendaftaran. Masing-masing input radio memiliki atribut name yang sama, sehingga hanya satu dari keduanya yang dapat dipilih. Input dengan checked menunjukkan bahwa formulir login akan ditampilkan secara default.
-<label for="login" class="slide login"> dan <label for="signup" class="slide signup">: Ini adalah elemen-elemen label yang berfungsi sebagai label untuk input radio. Mereka juga memiliki class "slide" dan "login" atau "signup" yang mungkin digunakan untuk menggaya label tersebut.
-<div class="slider-tab">: Ini adalah elemen yang mungkin digunakan untuk menampilkan tab geseran atau indikator yang menunjukkan formulir mana yang sedang ditampilkan saat ini (login atau pendaftaran).
+div class="wrapper": Ini adalah elemen pembungkus atau wadah utama yang mungkin digunakan untuk mengelompokkan elemen-elemen yang ada di dalamnya. Ini adalah elemen yang membatasi area konten.
+div class="title-text": Ini adalah elemen yang digunakan untuk menampilkan teks judul.
+div class="title login" dan div class="title signup": Ini adalah elemen-elemen yang digunakan untuk menampilkan judul "Form Login" dan "Form Registrasi". Masing-masing elemen memiliki class yang mungkin digunakan untuk menggaya atau memanipulasi tampilan teks.
+div class="form-container": Ini adalah elemen yang digunakan untuk mengelompokkan elemen-elemen yang terkait dengan formulir login dan pendaftaran.
+div class="slide-controls": Ini adalah elemen yang digunakan untuk mengendalikan tab atau geseran antara formulir login dan pendaftaran.
+input type="radio" name="slide" id="login" checked dan input type="radio" name="slide" id="signup": Ini adalah elemen-elemen input radio yang digunakan untuk memilih antara formulir login dan pendaftaran. Masing-masing input radio memiliki atribut name yang sama, sehingga hanya satu dari keduanya yang dapat dipilih. Input dengan checked menunjukkan bahwa formulir login akan ditampilkan secara default.
+label for="login" class="slide login" dan label for="signup" class="slide signup": Ini adalah elemen-elemen label yang berfungsi sebagai label untuk input radio. Mereka juga memiliki class "slide" dan "login" atau "signup" yang mungkin digunakan untuk menggaya label tersebut.
+div class="slider-tab": Ini adalah elemen yang mungkin digunakan untuk menampilkan tab geseran atau indikator yang menunjukkan formulir mana yang sedang ditampilkan saat ini (login atau pendaftaran).
 
 ![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/120777302/0c06b84c-91ce-4f6c-8d0f-2441e1a4f63a)
 
-<div class="form-inner">: Ini adalah elemen yang digunakan untuk mengelompokkan elemen-elemen yang terkait dengan formulir login.
-<form action="#" class="login">: Ini adalah elemen <form> yang digunakan untuk membuat formulir. Beberapa atribut dan class yang digunakan termasuk:
+div class="form-inner": Ini adalah elemen yang digunakan untuk mengelompokkan elemen-elemen yang terkait dengan formulir login.
+form action="#" class="login": Ini adalah elemen form yang digunakan untuk membuat formulir. Beberapa atribut dan class yang digunakan termasuk:
 action="#": Atribut action mengacu pada URL tujuan untuk mengirimkan data formulir. Dalam contoh ini, tanda "#" menunjukkan bahwa formulir akan mengirim data ke halaman yang sama (halaman saat ini).
 class="login": Class ini mungkin digunakan untuk menggaya atau memanipulasi tampilan formulir login.
-<pre> </pre>: Ini adalah elemen <pre> yang mungkin digunakan untuk menambahkan beberapa ruang kosong di atas formulir. Biasanya, elemen ini digunakan untuk mengatur tata letak atau tampilan.
-<div class="field">: Ini adalah elemen div yang digunakan untuk mengelompokkan elemen input dalam bentuk field. Dalam contoh ini, ada dua elemen field untuk masukan email dan password.
-<input type="text" placeholder="Masukan Email " required>: Ini adalah elemen input yang digunakan untuk memasukkan alamat email pengguna. Atribut yang digunakan termasuk:
+pre /pre: Ini adalah elemen pre yang mungkin digunakan untuk menambahkan beberapa ruang kosong di atas formulir. Biasanya, elemen ini digunakan untuk mengatur tata letak atau tampilan.
+div class="field": Ini adalah elemen div yang digunakan untuk mengelompokkan elemen input dalam bentuk field. Dalam contoh ini, ada dua elemen field untuk masukan email dan password.
+input type="text" placeholder="Masukan Email " required: Ini adalah elemen input yang digunakan untuk memasukkan alamat email pengguna. Atribut yang digunakan termasuk:
 type="text": Menunjukkan bahwa ini adalah elemen input teks.
 placeholder="Masukan Email ": Menampilkan teks placeholder di dalam input untuk memberikan petunjuk kepada pengguna. required: Membuat input ini menjadi wajib diisi sebelum formulir dapat dikirim.
-<input type="password" placeholder="Masukan Password" required>: Ini adalah elemen input yang digunakan untuk memasukkan kata sandi pengguna. Atribut yang digunakan mirip dengan elemen sebelumnya, tetapi dengan type="password", yang menyembunyikan karakter yang dimasukkan.
-<div class="pass-link"><a href="#">Lupa password?</a></div>: Ini adalah elemen yang mungkin digunakan untuk menambahkan tautan "Lupa password?". Pengguna dapat mengklik tautan ini jika mereka lupa kata sandi mereka.
-<div class="field btn">: Ini adalah elemen div yang digunakan untuk mengelompokkan elemen tombol (button) yang digunakan untuk mengirim formulir. Ini memiliki class "btn" yang mungkin digunakan untuk menggaya tombol tersebut.
-<div class="btn-layer"></div>: Ini adalah elemen div yang mungkin digunakan untuk menambahkan lapisan atau efek visual ke tombol.
-<input type="submit" value="Login">: Ini adalah elemen input dengan type="submit" yang digunakan untuk mengirimkan formulir. Nilai (value) "Login" akan ditampilkan pada tombol sebagai label.
-<div class="signup-link">Buat akun! <a href=""> Daftar sekarang</a></div>: Ini adalah elemen yang mungkin digunakan untuk menambahkan tautan atau pesan yang mengarahkan pengguna untuk membuat akun baru (daftar).
+input type="password" placeholder="Masukan Password" required: Ini adalah elemen input yang digunakan untuk memasukkan kata sandi pengguna. Atribut yang digunakan mirip dengan elemen sebelumnya, tetapi dengan type="password", yang menyembunyikan karakter yang dimasukkan.
+div class="pass-link"a href="#"Lupa password?/a/div: Ini adalah elemen yang mungkin digunakan untuk menambahkan tautan "Lupa password?". Pengguna dapat mengklik tautan ini jika mereka lupa kata sandi mereka.
+div class="field btn": Ini adalah elemen div yang digunakan untuk mengelompokkan elemen tombol (button) yang digunakan untuk mengirim formulir. Ini memiliki class "btn" yang mungkin digunakan untuk menggaya tombol tersebut.
+div class="btn-layer"/div: Ini adalah elemen div yang mungkin digunakan untuk menambahkan lapisan atau efek visual ke tombol.
+input type="submit" value="Login": Ini adalah elemen input dengan type="submit" yang digunakan untuk mengirimkan formulir. Nilai (value) "Login" akan ditampilkan pada tombol sebagai label.
+div class="signup-link"Buat akun! a href="" Daftar sekarang/a/div: Ini adalah elemen yang mungkin digunakan untuk menambahkan tautan atau pesan yang mengarahkan pengguna untuk membuat akun baru (daftar).
 
 ![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/120777302/259bdde6-954c-4456-85f5-5e4e1f70df2b)
 
-<form action="#" class="signup">: Ini adalah elemen <form> yang digunakan untuk membuat formulir pendaftaran. Beberapa atribut dan class yang digunakan termasuk:
+form action="#" class="signup": Ini adalah elemen form yang digunakan untuk membuat formulir pendaftaran. Beberapa atribut dan class yang digunakan termasuk:
 action="#": Atribut action mengacu pada URL tujuan untuk mengirimkan data formulir. Dalam contoh ini, tanda "#" menunjukkan bahwa formulir akan mengirim data ke halaman yang sama (halaman saat ini).
 class="signup": Class ini mungkin digunakan untuk menggaya atau memanipulasi tampilan formulir pendaftaran.
-<div class="field">: Ini adalah elemen div yang digunakan untuk mengelompokkan elemen input dalam bentuk field. Dalam contoh ini, ada empat elemen field untuk memasukkan nama, alamat email, kata sandi, dan konfirmasi kata sandi.
-<input type="text" placeholder="Masukan Nama" required>: Ini adalah elemen input yang digunakan untuk memasukkan nama pengguna. Atribut yang digunakan termasuk:
+div class="field": Ini adalah elemen div yang digunakan untuk mengelompokkan elemen input dalam bentuk field. Dalam contoh ini, ada empat elemen field untuk memasukkan nama, alamat email, kata sandi, dan konfirmasi kata sandi.
+input type="text" placeholder="Masukan Nama" required: Ini adalah elemen input yang digunakan untuk memasukkan nama pengguna. Atribut yang digunakan termasuk:
 type="text": Menunjukkan bahwa ini adalah elemen input teks.
 placeholder="Masukan Nama": Menampilkan teks placeholder di dalam input untuk memberikan petunjuk kepada pengguna.
 required: Membuat input ini menjadi wajib diisi sebelum formulir dapat dikirim.
-<input type="password" placeholder="Masukan Password" required>: Ini adalah elemen input yang digunakan untuk memasukkan kata sandi pengguna. Atribut yang digunakan mirip dengan elemen sebelumnya, tetapi dengan type="password", yang menyembunyikan karakter yang dimasukkan.
-<input type="password" placeholder="Ulangi password" required>: Ini adalah elemen input yang digunakan untuk mengkonfirmasi kata sandi pengguna. Ini juga memiliki atribut type="password", sehingga karakter yang dimasukkan akan disembunyikan.
-<div class="field btn">: Ini adalah elemen div yang digunakan untuk mengelompokkan elemen tombol (button) yang digunakan untuk mengirim formulir pendaftaran. Ini memiliki class "btn" yang mungkin digunakan untuk menggaya tombol tersebut.
-<div class="btn-layer"></div>: Ini adalah elemen div yang mungkin digunakan untuk menambahkan lapisan atau efek visual ke tombol.
-<input type="submit" value="Daftar">: Ini adalah elemen input dengan type="submit" yang digunakan untuk mengirimkan formulir pendaftaran. Nilai (value) "Daftar" akan ditampilkan pada tombol sebagai label.
-<div class="signup-link">Sudah punya akun? <a href="">Login</a></div>: Ini adalah elemen yang mungkin digunakan untuk menambahkan tautan atau pesan yang mengarahkan pengguna untuk masuk ke akun yang sudah ada.
+input type="password" placeholder="Masukan Password" required: Ini adalah elemen input yang digunakan untuk memasukkan kata sandi pengguna. Atribut yang digunakan mirip dengan elemen sebelumnya, tetapi dengan type="password", yang menyembunyikan karakter yang dimasukkan.
+input type="password" placeholder="Ulangi password" required: Ini adalah elemen input yang digunakan untuk mengkonfirmasi kata sandi pengguna. Ini juga memiliki atribut type="password", sehingga karakter yang dimasukkan akan disembunyikan.
+div class="field btn": Ini adalah elemen div yang digunakan untuk mengelompokkan elemen tombol (button) yang digunakan untuk mengirim formulir pendaftaran. Ini memiliki class "btn" yang mungkin digunakan untuk menggaya tombol tersebut.
+div class="btn-layer"/div: Ini adalah elemen div yang mungkin digunakan untuk menambahkan lapisan atau efek visual ke tombol.
+input type="submit" value="Daftar": Ini adalah elemen input dengan type="submit" yang digunakan untuk mengirimkan formulir pendaftaran. Nilai (value) "Daftar" akan ditampilkan pada tombol sebagai label.
+div class="signup-link"Sudah punya akun? a href=""Login/a/div: Ini adalah elemen yang mungkin digunakan untuk menambahkan tautan atau pesan yang mengarahkan pengguna untuk masuk ke akun yang sudah ada.
 
 D. CSS LOGIN
 
