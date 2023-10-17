@@ -5,7 +5,7 @@ Versi 1.0 Disetujui
  
 Disusun Oleh : 
 1. Muhammad Rizal Ma’arif	(22091397086)  2022C 
-2. Ananda Veda Basunjaya    (22091397098)  2022C 
+2. Ananda Veda Basunjaya	(22091397098)  2022C 
 3. Anis Putri Purwanti 		(22091397107)  2022C 
  
 D4 Manajemen Informatika 2022 C
@@ -41,7 +41,7 @@ PERSYARATAN ANTARMUKA EKSTERNAL
 3.2 Antarmuka Perangkat Keras
 3.3 Antarmuka Perangkat Lunak
 
-BAB IV	13 
+BAB IV
 FITUR SISTEM DAN KERANGKA DESAIN FITUR
 4.1 Halaman Daftar
 	4.1.1 Deskripsi dan Prioritas
