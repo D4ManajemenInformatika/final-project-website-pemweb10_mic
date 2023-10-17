@@ -52,17 +52,28 @@ Universitas Negeri Surabaya
 
 ![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/124486941/1972636f-545a-4cda-81cc-e0fb11c124c0)
 
-[hai] [div class="wrapper"]: Ini adalah elemen div dengan atribut class yang disebut "wrapper.
+ [div class="wrapper"]: Ini adalah elemen div dengan atribut class yang disebut "wrapper.
+ 
 " Elemen ini mungkin digunakan untuk mengelompokkan sejumlah elemen HTML dalam tampilan yang sama, seperti yang mungkin diperlukan untuk mengatur tata letak halaman.
+
 [section id="home"]: Ini adalah elemen section dengan atribut id yang disebut "home." Elemen section biasanya digunakan untuk mengelompokkan konten yang memiliki kesamaan tematik atau fungsional dalam halaman web. 
+
 Atribut id "home" digunakan untuk mengidentifikasi elemen ini secara unik, yang dapat digunakan untuk menghubungkannya dengan tautan tertentu atau gaya CSS khusus.
+
 <img src="logo.png" width="40%">: Ini adalah elemen gambar (<img>) yang menampilkan gambar dengan atribut src yang merujuk pada file gambar "logo.png." Atribut width digunakan untuk mengatur lebar gambar menjadi 40% lebar elemen yang mengandung gambar ini. [div class="kolom"]: Ini adalah elemen div dengan atribut class "kolom."
+
 Sepertinya ini digunakan untuk mengelompokkan konten teks yang akan ditampilkan dalam kolom tertentu. [h2]SELAMAT DATANG[/h2]: Ini adalah elemen heading level 2 yang berisi teks "SELAMAT DATANG." Heading digunakan untuk menyoroti judul atau bagian penting dari konten.
+
 [p style="text-indent: 45px;"] ... [/p]: Ini adalah elemen paragraf (<p>) dengan gaya CSS inline yang mengatur tata letak paragraf.
+
 Gaya CSS "text-indent: 45px" digunakan untuk membuat indentasi teks sebesar 45 piksel. Paragraf ini berisi deskripsi tentang produk Cakies atau Cake and Cookies.
+
 [p] ... [/p]: Ini adalah elemen paragraf lainnya yang berisi daftar kelebihan produk. Daftar ini diawali dengan teks "Kelebihan Produk (Strength)" dan diikuti oleh beberapa poin yang menjelaskan keunggulan produk tersebut.
+
 [p][a href="" class="tombol"]Pelajari Lebih Lanjut[/a][/p]: Ini adalah elemen paragraf yang berisi tautan ("a") dengan atribut class "tombol."
+
 Tautan ini mungkin digunakan untuk mengarahkan pengguna ke halaman lain atau sumber informasi tambahan. Saat ini, atribut href kosong, sehingga tidak ada URL yang ditautkan.
+
 
 ![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/124486941/e99a35b7-b798-481e-8971-4ba7af14ed3c)
 
