@@ -79,7 +79,7 @@ Tautan ini mungkin digunakan untuk mengarahkan pengguna ke halaman lain atau sum
 
 ![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/124486941/61988af0-6905-4c1f-9f02-fa92060b3376)
 
-[halo] <div class="kolom">: Ini adalah wadah utama yang mengelompokkan seluruh konten dalam bagian "courses". Konten produk akan ditampilkan dalam tiga kolom yang berbeda.
+ div class="kolom": Ini adalah wadah utama yang mengelompokkan seluruh konten dalam bagian "courses". Konten produk akan ditampilkan dalam tiga kolom yang berbeda.
 
 [div class="kelas1"]: Ini adalah elemen yang berisi judul "Product Kami". Judul ini mengidentifikasi bahwa bagian ini adalah tentang produk yang ditawarkan.
 
@@ -101,16 +101,16 @@ Tautan ini mungkin digunakan untuk mengarahkan pengguna ke halaman lain atau sum
 
 ![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/124486941/fd21fe27-9661-4af1-8697-40167a0bc506)
 
-<section id="partners">: Ini adalah elemen section yang memiliki atribut id "partners." Elemen section digunakan untuk mengelompokkan konten yang berkaitan dengan topik atau sebagian halaman tertentu. Dalam hal ini, elemen ini mungkin berisi informasi tentang mitra atau layanan pemesanan.
-<div class="tengah">: Ini adalah elemen div dengan atribut class "tengah." Elemen ini mungkin digunakan untuk mengatur tata letak konten dalam "section" agar tengah atau terpusat pada halaman.
-<div class="kolom">: Ini adalah elemen div dengan atribut class "kolom." Elemen ini digunakan untuk mengelompokkan teks dan mungkin digunakan untuk memberikan tampilan atau gaya khusus pada bagian ini.
-<h2>Pemesanan</h2>: Ini adalah elemen heading level 2 yang berisi teks "Pemesanan." Ini adalah judul bagian yang berkaitan dengan pemesanan produk.
-<p style="text-align: center;"> ... </p>: Ini adalah elemen paragraf dengan gaya CSS inline yang mengatur tata letak paragraf menjadi tengah dengan "text-align: center." Paragraf ini berisi teks yang menjelaskan bahwa produk kue dapat dipesan melalui aplikasi dan layanan pengiriman.
-<div class="partner-list">: Ini adalah elemen div dengan atribut class "partner-list." Elemen ini mungkin digunakan untuk mengelompokkan daftar mitra atau platform pemesanan.
-<div class="kartu-partner">: Ini adalah elemen div dengan atribut class "kartu-partner." Elemen ini digunakan untuk mengelencengkan setiap mitra atau platform pemesanan.
-<a href="https://gofood.co.id/en">: Ini adalah elemen anchor (tautan) dengan atribut href yang mengarahkan ke situs web Go Food. Ketika pengguna mengklik tautan ini, mereka akan diarahkan ke situs Go Food.
-<img src="shopefood.png">: Ini adalah elemen gambar yang menampilkan gambar logo atau ikon Go Food. Gambar ini mungkin digunakan untuk mengidentifikasi mitra tersebut.
-<p>Go Food</p>: Ini adalah elemen paragraf yang berisi teks "Go Food," yang mungkin digunakan untuk memberikan label pada mitra.
+section id="partners": Ini adalah elemen section yang memiliki atribut id "partners." Elemen section digunakan untuk mengelompokkan konten yang berkaitan dengan topik atau sebagian halaman tertentu. Dalam hal ini, elemen ini mungkin berisi informasi tentang mitra atau layanan pemesanan.
+div class="tengah": Ini adalah elemen div dengan atribut class "tengah." Elemen ini mungkin digunakan untuk mengatur tata letak konten dalam "section" agar tengah atau terpusat pada halaman.
+div class="kolom": Ini adalah elemen div dengan atribut class "kolom." Elemen ini digunakan untuk mengelompokkan teks dan mungkin digunakan untuk memberikan tampilan atau gaya khusus pada bagian ini.
+h2>Pemesanan</h2: Ini adalah elemen heading level 2 yang berisi teks "Pemesanan." Ini adalah judul bagian yang berkaitan dengan pemesanan produk.
+<p style="text-align: center;" ... </p: Ini adalah elemen paragraf dengan gaya CSS inline yang mengatur tata letak paragraf menjadi tengah dengan "text-align: center." Paragraf ini berisi teks yang menjelaskan bahwa produk kue dapat dipesan melalui aplikasi dan layanan pengiriman.
+div class="partner-list">: Ini adalah elemen div dengan atribut class "partner-list." Elemen ini mungkin digunakan untuk mengelompokkan daftar mitra atau platform pemesanan.
+<div class="kartu-partner": Ini adalah elemen div dengan atribut class "kartu-partner." Elemen ini digunakan untuk mengelencengkan setiap mitra atau platform pemesanan.
+<a href="https://gofood.co.id/en": Ini adalah elemen anchor (tautan) dengan atribut href yang mengarahkan ke situs web Go Food. Ketika pengguna mengklik tautan ini, mereka akan diarahkan ke situs Go Food.
+<img src="shopefood.png": Ini adalah elemen gambar yang menampilkan gambar logo atau ikon Go Food. Gambar ini mungkin digunakan untuk mengidentifikasi mitra tersebut.
+<pGo Food</p: Ini adalah elemen paragraf yang berisi teks "Go Food," yang mungkin digunakan untuk memberikan label pada mitra.
 
 ![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/124486941/7084e024-cceb-4b7d-8376-383e66885dea)
 
