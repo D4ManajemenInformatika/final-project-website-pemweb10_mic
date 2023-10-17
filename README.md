@@ -40,10 +40,10 @@ Universitas Negeri Surabaya
 <a>: Ini adalah elemen anchor (tautan) yang digunakan untuk membuat tautan ke halaman lain atau ke bagian lain di halaman web yang saat ini dilihat. Setiap tautan memiliki atribut href yang menentukan URL tautan.
 <a> dengan class "signup": Ini adalah tautan yang memiliki class "signup." Class ini mungkin digunakan untuk memberikan tampilan atau perilaku yang berbeda untuk tautan ini, misalnya, tautan "Join Us!" dapat diubah warnanya dengan CSS.
 
-    B. CSS
+B. CSS
 
-    C. HTML LOGIN
+C. HTML LOGIN
 
-    D. CSS LOGIN
+D. CSS LOGIN
 
-    E. JAVA SCRIPT
+E. JAVASCRIPT
