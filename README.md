@@ -25,6 +25,8 @@ Universitas Negeri Surabaya
 
    ![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/124486941/f45a2db0-d8b0-4bf0-8ded-932911b34bcc)
 
+
+
 1.	<!DOCTYPE html>: Ini adalah deklarasi tipe dokumen HTML yang digunakan dalam dokumen. Ini memberi tahu browser bahwa ini adalah dokumen HTML.
 2.	<html lang="en">: Ini adalah elemen root yang membungkus seluruh konten halaman web. 
 Atribut lang mengindikasikan bahwa bahasa yang digunakan dalam dokumen adalah bahasa Inggris (English).
