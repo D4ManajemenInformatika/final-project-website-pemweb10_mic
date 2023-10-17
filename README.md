@@ -27,7 +27,7 @@ Universitas Negeri Surabaya
 
 
 
-1.	<!DOCTYPE html>: Ini adalah deklarasi tipe dokumen HTML yang digunakan dalam dokumen. Ini memberi tahu browser bahwa ini adalah dokumen HTML.
+1.	[!DOCTYPE html]: Ini adalah deklarasi tipe dokumen HTML yang digunakan dalam dokumen. Ini memberi tahu browser bahwa ini adalah dokumen HTML.
 2.	<html lang="en">: Ini adalah elemen root yang membungkus seluruh konten halaman web. 
 Atribut lang mengindikasikan bahwa bahasa yang digunakan dalam dokumen adalah bahasa Inggris (English).
 3.	<head>: Bagian ini mengandung informasi tentang halaman web, seperti meta tag, judul halaman, dan tautan ke berkas-berkas eksternal seperti CSS.
