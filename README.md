@@ -87,7 +87,7 @@ Universitas Negeri Surabaya
 
 2. Lampiran
 
-   A. Flowchart
+   A. Flowchart 
    
    ![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/120777302/35e5fc63-3cc5-4a68-a175-ee3f4f168036)
 
