@@ -17,6 +17,7 @@ Tujuan identifikasi mengenai produk website SiCakies adalah untuk menjelaskan ca
   A. Flowchart
   B. Usecase
 3. Penjelasan
+
 HTML
  ![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/124486941/7352af1d-fd1c-450a-9842-9140d23633f2)
 
@@ -46,35 +47,10 @@ Atribut lang mengindikasikan bahwa bahasa yang digunakan dalam dokumen adalah ba
 9.	<div id="contact">: Ini adalah bagian keempat dari halaman web yang berisi informasi kontak tentang bisnis "SI CAKIES." Ini mencakup alamat fisik, media sosial, dan nomor telepon.
 10.	<div id="copyright">: Ini adalah bagian terakhir dari halaman web yang berisi hak cipta dan nama situs.
 
+css
+![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/124486941/cf175166-d4b9-40d7-b002-f0b667606fa5)
+![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/124486941/90febaf5-5137-4afd-8c55-697aca0454de)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-CSS
- 
- 
 1.	@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');: Ini adalah aturan untuk mengimpor font Poppins dari Google Fonts. Font ini akan digunakan dalam halaman web dan dapat diakses dalam berbagai berat (400, 500, 600, dan 700).
 2.	*{ text-decoration: none; margin: 0px; padding: 0px; }: Ini adalah CSS reset. Ini menghilangkan dekorasi teks bawaan, seperti garis bawah dari tautan (link), dan mengatur margin serta padding elemen-elemen HTML menjadi 0px.
 3.	body{ margin: 0px; padding: 0px; font-family: poppins; }: Ini mengatur gaya dasar untuk elemen body. Mengatur margin dan padding ke 0px, serta mengatur font yang akan digunakan sebagai Poppins.
@@ -98,37 +74,8 @@ CSS
 21.	#copyright{ /* CSS untuk elemen "copyright" */ }: Ini adalah pengaturan tampilan khusus untuk elemen dengan ID "copyright."
 22.	.beli{ /* CSS untuk tautan "Beli" */ }: Ini mengatur tampilan tautan "Beli," termasuk warna latar belakang dan padding.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-HTML LOGIN
- 
-
-
-
-
+Html Login
+![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/124486941/cc3e9910-cb08-4032-8029-05b2b4a341b7)
 
 1.	<!DOCTYPE html>: Ini adalah deklarasi tipe dokumen HTML yang digunakan dalam dokumen. Ini memberi tahu browser bahwa ini adalah dokumen HTML.
 2.	<html lang="en">: Ini adalah elemen root yang membungkus seluruh konten halaman web. Atribut lang mengindikasikan bahwa bahasa yang digunakan dalam dokumen adalah bahasa Inggris (English).
@@ -157,7 +104,6 @@ HTML LOGIN
 •	.pass-link: Ini adalah div yang berisi tautan "Lupa password?".
 •	.field.btn: Ini adalah div yang berisi tombol "Login" yang akan mengirimkan formulir.
 •	.signup-link: Ini adalah div yang berisi tautan "Buat akun!" untuk menuju formulir pendaftaran.
-
 •	<form action="#" class="signup">: Ini adalah formulir pendaftaran. Atribut class menunjukkan bahwa ini adalah formulir pendaftaran.
 •	.field: Ini adalah div yang mengelompokkan input fields untuk pendaftaran.
 •	<input type="text" placeholder="Masukan Nama" required>: Ini adalah input field untuk memasukkan nama.
@@ -168,27 +114,10 @@ HTML LOGIN
 •	.signup-link: Ini adalah div yang berisi tautan "Sudah punya akun?" untuk menuju formulir login.
 8.	<script src="./script.js"></script>: Ini adalah tautan ke berkas JavaScript eksternal (script.js) yang akan menambahkan fungsi ke halaman web.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 CSS
- 
+ ![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/124486941/d170e86c-d06f-48f1-af0c-1ef85d349724)
+![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/124486941/c6ad99e7-ce4b-43ec-a2e2-6674b347d7b0)
 
-
-
-
- 
 1.	@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');: Ini adalah aturan CSS yang mengimpor font Poppins dari Google Fonts. Font ini akan digunakan dalam tampilan halaman.
 2.	*: Ini adalah selektor universal yang memengaruhi semua elemen pada halaman. Beberapa properti CSS diterapkan pada semua elemen, termasuk margin, padding, box-sizing, dan font-family.
 3.	html, body: Ini adalah selektor yang memengaruhi elemen html dan body. Ini mengatur beberapa properti CSS seperti display: grid untuk mengatur konten halaman di tengah, height dan width sebesar 100% untuk mengisi seluruh area layar, dan background-image untuk membuat latar belakang dalam bentuk radial gradient.
@@ -220,16 +149,9 @@ CSS
 29.	form .btn:hover .btn-layer: Ini adalah tampilan saat tombol mendapat sorotan saat pengguna mengarahkan kursor ke atasnya. Lapisan latar belakang diubah untuk menciptakan efek transisi.
 30.	form .btn input[type="submit"]: Ini adalah tombol "Submit" dalam formulir. Properti seperti height, width, z-index, background, border, color, padding, border-radius, font-size, dan cursor digunakan untuk mengatur tampilan tombol.
 
-
-
-
-
-
-
-
-
-
 JAVASCRIPT
+![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/124486941/6c6e0fcc-83b2-4ad9-ae0a-7f8226a00302)
+
  
 1.	const loginText = document.querySelector(".title-text .login");: Ini adalah deklarasi variabel loginText yang digunakan untuk memilih elemen dengan kelas .login yang berada dalam elemen dengan kelas .title-text. Ini mengacu pada elemen judul "Form Login" di halaman.
 2.	const loginForm = document.querySelector("form.login");: Ini adalah deklarasi variabel loginForm yang digunakan untuk memilih elemen <form> dengan kelas .login. Ini mengacu pada formulir login di halaman.
