@@ -79,16 +79,25 @@ Tautan ini mungkin digunakan untuk mengarahkan pengguna ke halaman lain atau sum
 
 ![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/124486941/61988af0-6905-4c1f-9f02-fa92060b3376)
 
-<div class="kolom">: Ini adalah wadah utama yang mengelompokkan seluruh konten dalam bagian "courses". Konten produk akan ditampilkan dalam tiga kolom yang berbeda.
-<div class="kelas1">: Ini adalah elemen yang berisi judul "Product Kami". Judul ini mengidentifikasi bahwa bagian ini adalah tentang produk yang ditawarkan.
-<div class="gambar1">: Ini adalah kolom pertama yang berisi informasi tentang produk pertama.
-<img src="cokies.jpeg" align="left" width="250px" height="200px">: Ini adalah gambar produk (kue Cookies) dengan atribut sumber gambar, penyesuaian ke kiri (align), lebar, dan tinggi.
-<h4>Kue Cookies</h4>: Ini adalah judul produk "Kue Cookies".
-<p>...: Ini adalah deskripsi produk yang menjelaskan produk ("Cookies dengan permukaan coklat...") dan harga produk ("Rp 4.000/pcs").
-<p><a href="" class="beli">Beli</a></p>: Ini adalah tautan "Beli" yang mungkin mengarahkan pengguna ke halaman atau tindakan pembelian.
+[halo] <div class="kolom">: Ini adalah wadah utama yang mengelompokkan seluruh konten dalam bagian "courses". Konten produk akan ditampilkan dalam tiga kolom yang berbeda.
 
-<div class="gambar2">: Ini adalah kolom kedua yang berisi informasi tentang produk kedua (Kue Lumpur) dengan format yang sama seperti produk pertama.
-<div class="gambar3">: Ini adalah kolom ketiga yang berisi informasi tentang produk ketiga (Kue Tart) dengan format yang sama seperti produk pertama.
+[div class="kelas1"]: Ini adalah elemen yang berisi judul "Product Kami". Judul ini mengidentifikasi bahwa bagian ini adalah tentang produk yang ditawarkan.
+
+[div class="gambar1"]: Ini adalah kolom pertama yang berisi informasi tentang produk pertama.
+
+[img src="cokies.jpeg" align="left" width="250px" height="200px"]: Ini adalah gambar produk (kue Cookies) dengan atribut sumber gambar, penyesuaian ke kiri (align), lebar, dan tinggi.
+
+[h4]Kue Cookies[/h4]: Ini adalah judul produk "Kue Cookies".
+
+[p]...: Ini adalah deskripsi produk yang menjelaskan produk ("Cookies dengan permukaan coklat...") dan harga produk ("Rp 4.000/pcs").
+
+[p][a href="" class="beli"]Beli[/a][/p]: Ini adalah tautan "Beli" yang mungkin mengarahkan pengguna ke halaman atau tindakan pembelian.
+
+
+[div class="gambar2"]: Ini adalah kolom kedua yang berisi informasi tentang produk kedua (Kue Lumpur) dengan format yang sama seperti produk pertama.
+
+[div class="gambar3"]: Ini adalah kolom ketiga yang berisi informasi tentang produk ketiga (Kue Tart) dengan format yang sama seperti produk pertama.
+
 
 ![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/124486941/fd21fe27-9661-4af1-8697-40167a0bc506)
 
