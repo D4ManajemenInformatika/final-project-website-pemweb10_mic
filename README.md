@@ -17,7 +17,6 @@ Tujuan identifikasi mengenai produk website SiCakies adalah untuk menjelaskan ca
   A. Flowchart
   B. Usecase
 3. Penjelasan
-
 HTML
  ![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/124486941/7352af1d-fd1c-450a-9842-9140d23633f2)
 
