@@ -262,4 +262,25 @@ form .btn:hover .btn-layer: Ini mengatur perubahan posisi lapisan tombol saat to
 form .btn input[type="submit"]: Ini adalah elemen input dengan tipe "submit" dalam formulir. Ini mengatur tampilan tombol submit, termasuk ketinggian, lebar, tampilan luar (outline), warna latar belakang, border, dan lain-lain.
 
 
-E. JAVASCRIPT
+E. JAVASCRIPT 
+
+   ![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/144097689/60b0b76b-b6ef-4a62-8989-84eaaa4db6c1)
+
+Menggunakan document.querySelector untuk memilih elemen-elemen HTML dengan menggunakan kelas dan tag. Ini mengizinkan  untuk berinteraksi dengan elemen-elemen tersebut melalui JavaScript
+
+   ![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/144097689/cf0d7835-4b76-4085-9c28-29f611b22697) 
+
+   Ketika tombol "Daftar" di-klik, Anda mengatur properti marginLeft pada elemen form dan judul "Form Login" untuk menggesernya ke kiri sejauh -50%. Ini menciptakan efek bergeser antara form login dan form registrasi. 
+
+![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/144097689/1e768746-b817-49e1-88a6-6c2bc029e8fd) 
+
+Ketika tombol "Login" di-klik, Anda mengatur properti marginLeft pada elemen form dan judul "Form Login" kembali ke posisi awal (0%). Ini memungkinkan pengguna untuk kembali ke form login.  
+
+![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/144097689/7717914a-b5ce-427b-940d-5319b5d78155)
+
+Ketika tautan "Daftar Sekarang" di-klik, Anda memicu klik pada tombol "Daftar" secara otomatis dengan signupBtn.click(). Ini memungkinkan pengguna untuk beralih ke form registrasi. Kemudian, Anda mengembalikan false untuk menghentikan tindakan bawaan dari tautan tersebut.
+
+
+   
+
+
