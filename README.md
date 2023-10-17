@@ -17,8 +17,10 @@ Universitas Negeri Surabaya
 2. Lampiran
 
    A. Flowchart
-   
+   ![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/120777302/35e5fc63-3cc5-4a68-a175-ee3f4f168036)
+
    B. Usecase
+![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/120777302/a6d7a8b6-7038-4f40-b770-e5055717f413)
 
 4. Penjelasan Code
 
