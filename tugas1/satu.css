@@ -1,0 +1,247 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+
+*{
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: poppins;
+}
+
+.wrapper{
+    width: 1100px;
+    margin: auto;
+    position: relative;
+}
+
+.judul a{
+    font-size: 50px;
+    font-weight: 800;
+    font-weight: bold;
+    float: left;
+    font-family: 'montserrat', poppins, poppins;
+    color:#d0d9c4 ;
+    
+}
+
+.wrapper p{
+    text-indent: 45px;
+}
+
+.menu{
+    float: right;
+}
+
+nav {
+    width: 100%;
+    margin: auto;
+    display: flex;
+    line-height: 80px;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    background: #618264;
+    z-index: 1;
+    border-bottom: 5px solid #fefefe;
+}
+
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+nav ul li{
+    float: left;
+}
+
+nav ul li a{
+    text-align: center;
+    color: hsl(35, 56%, 52%);
+    padding: 0px 16px 0px 16px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+nav ul li a:hover{
+    text-decoration: underline;
+}
+
+section{
+    margin: auto;
+    display: flex;
+    margin-bottom: 50px;
+}
+
+#home{
+    background: #F5F5DC;
+    margin-left: -10%;
+    margin-right: -5%;
+}
+
+.kolom {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: poppins, poppins, poppins;
+}
+
+#courses{
+    background: #d6ab81;
+    padding: 50px 0px 30px 0px;
+    margin-left: -10%;
+    margin-right: -5%;
+}
+
+h2{
+    font-family: 'poppins';
+    font-weight: 800;
+    font-size: 40px;
+    margin-bottom: 10px;
+    margin-left: 5%;
+    width: 100%;
+    line-height: 50px;
+}
+
+a.signup {
+    background: #dac0a3;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 15px 20px 15px 20px;
+    color: #ffffff;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+a.tombol {
+    background: #DAC0A3;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 15px 20px 15px 20px;
+    color: #ffffff;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+p{
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+    text-align: justiffy;
+
+}
+
+.kelas1{
+    margin-left: 5%;
+}
+
+.gambar1{
+    margin: 3%;
+    display: block;
+    margin-left: 5%;
+}
+
+.gambar2{
+    margin: 3%;
+    margin-top: 3%;
+    display: block;
+    margin-left: 5%;
+}
+
+.gambar3 {
+    margin: 3%;
+    margin-top: 1%;
+    display: block;
+    margin-left: 5%;
+}
+
+.tengah{
+    text-align: center;
+    width: 95%;
+}
+
+.partner-list{
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.kartu-partner{
+    width: 20%;
+    margin: 0 auto;
+}
+
+.kartu-tutor img{
+    width: 80%;
+
+}
+
+.kartu-tutor p{
+    font-family: 'poppins';
+    font-weight: 800;
+    font-size: 25px;
+    text-align: center;
+    color: rgb(13, 219, 219);
+}
+
+#contact {
+    background: #dedede;
+    padding: 50px 0px 30px 0px;
+    margin-left: -10%;
+    margin-right: -5%;
+}
+
+.footer{
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+.footer-section{
+    width: 30%;
+    margin: 0 auto;
+}
+
+h3{
+    font-family: 'poppins';
+    font-weight: 800;
+    font-size: 30px;
+    margin-bottom: 30px;
+    color: #052822;
+    width: 100%;
+    line-height: 0px;
+}
+
+#copyright{
+    text-align: center;
+    width: 100%;
+    padding: 50px 0px 50px 0px;
+    margin-top: 30px;
+}
+
+#partners{
+    background: #B0D9B1;
+    padding: 50px 0px 30px 0px;
+        margin-left: -10%;
+        margin-right: -5%;
+}
+
+.beli{
+    background: #79AC78;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 10px 20px 10px 20px;
+    color: #ffffff;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+
