@@ -27,7 +27,6 @@ Universitas Negeri Surabaya
 ![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/120777302/a6d7a8b6-7038-4f40-b770-e5055717f413)
 
 4. Penjelasan Code
-
    A. Html
 
 ![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/124486941/820cd24c-c5e0-464e-8735-a1824389abe7)
@@ -42,7 +41,120 @@ Universitas Negeri Surabaya
 <a>: Ini adalah elemen anchor (tautan) yang digunakan untuk membuat tautan ke halaman lain atau ke bagian lain di halaman web yang saat ini dilihat. Setiap tautan memiliki atribut href yang menentukan URL tautan.
 <a> dengan class "signup": Ini adalah tautan yang memiliki class "signup." Class ini mungkin digunakan untuk memberikan tampilan atau perilaku yang berbeda untuk tautan ini, misalnya, tautan "Join Us!" dapat diubah warnanya dengan CSS.
 
+![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/124486941/1972636f-545a-4cda-81cc-e0fb11c124c0)
+
+<div class="wrapper">: Ini adalah elemen div dengan atribut class yang disebut "wrapper." Elemen ini mungkin digunakan untuk mengelompokkan sejumlah elemen HTML dalam tampilan yang sama, seperti yang mungkin diperlukan untuk mengatur tata letak halaman.
+<section id="home">: Ini adalah elemen section dengan atribut id yang disebut "home." Elemen section biasanya digunakan untuk mengelompokkan konten yang memiliki kesamaan tematik atau fungsional dalam halaman web. Atribut id "home" digunakan untuk mengidentifikasi elemen ini secara unik, yang dapat digunakan untuk menghubungkannya dengan tautan tertentu atau gaya CSS khusus.
+<img src="logo.png" width="40%">: Ini adalah elemen gambar (<img>) yang menampilkan gambar dengan atribut src yang merujuk pada file gambar "logo.png." Atribut width digunakan untuk mengatur lebar gambar menjadi 40% lebar elemen yang mengandung gambar ini.
+<div class="kolom">: Ini adalah elemen div dengan atribut class "kolom." Sepertinya ini digunakan untuk mengelompokkan konten teks yang akan ditampilkan dalam kolom tertentu.
+<h2>SELAMAT DATANG</h2>: Ini adalah elemen heading level 2 yang berisi teks "SELAMAT DATANG." Heading digunakan untuk menyoroti judul atau bagian penting dari konten.
+<p style="text-indent: 45px;"> ... </p>: Ini adalah elemen paragraf (<p>) dengan gaya CSS inline yang mengatur tata letak paragraf. Gaya CSS "text-indent: 45px" digunakan untuk membuat indentasi teks sebesar 45 piksel. Paragraf ini berisi deskripsi tentang produk Cakies atau Cake and Cookies.
+<p> ... </p>: Ini adalah elemen paragraf lainnya yang berisi daftar kelebihan produk. Daftar ini diawali dengan teks "Kelebihan Produk (Strength)" dan diikuti oleh beberapa poin yang menjelaskan keunggulan produk tersebut.
+<p><a href="" class="tombol">Pelajari Lebih Lanjut</a></p>: Ini adalah elemen paragraf yang berisi tautan ("a") dengan atribut class "tombol." Tautan ini mungkin digunakan untuk mengarahkan pengguna ke halaman lain atau sumber informasi tambahan. Saat ini, atribut href kosong, sehingga tidak ada URL yang ditautkan.
+
+![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/124486941/e99a35b7-b798-481e-8971-4ba7af14ed3c)
+
+![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/124486941/61988af0-6905-4c1f-9f02-fa92060b3376)
+
+<div class="kolom">: Ini adalah wadah utama yang mengelompokkan seluruh konten dalam bagian "courses". Konten produk akan ditampilkan dalam tiga kolom yang berbeda.
+<div class="kelas1">: Ini adalah elemen yang berisi judul "Product Kami". Judul ini mengidentifikasi bahwa bagian ini adalah tentang produk yang ditawarkan.
+<div class="gambar1">: Ini adalah kolom pertama yang berisi informasi tentang produk pertama.
+<img src="cokies.jpeg" align="left" width="250px" height="200px">: Ini adalah gambar produk (kue Cookies) dengan atribut sumber gambar, penyesuaian ke kiri (align), lebar, dan tinggi.
+<h4>Kue Cookies</h4>: Ini adalah judul produk "Kue Cookies".
+<p>...: Ini adalah deskripsi produk yang menjelaskan produk ("Cookies dengan permukaan coklat...") dan harga produk ("Rp 4.000/pcs").
+<p><a href="" class="beli">Beli</a></p>: Ini adalah tautan "Beli" yang mungkin mengarahkan pengguna ke halaman atau tindakan pembelian.
+
+<div class="gambar2">: Ini adalah kolom kedua yang berisi informasi tentang produk kedua (Kue Lumpur) dengan format yang sama seperti produk pertama.
+<div class="gambar3">: Ini adalah kolom ketiga yang berisi informasi tentang produk ketiga (Kue Tart) dengan format yang sama seperti produk pertama.
+
+![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/124486941/fd21fe27-9661-4af1-8697-40167a0bc506)
+
+<section id="partners">: Ini adalah elemen section yang memiliki atribut id "partners." Elemen section digunakan untuk mengelompokkan konten yang berkaitan dengan topik atau sebagian halaman tertentu. Dalam hal ini, elemen ini mungkin berisi informasi tentang mitra atau layanan pemesanan.
+<div class="tengah">: Ini adalah elemen div dengan atribut class "tengah." Elemen ini mungkin digunakan untuk mengatur tata letak konten dalam "section" agar tengah atau terpusat pada halaman.
+<div class="kolom">: Ini adalah elemen div dengan atribut class "kolom." Elemen ini digunakan untuk mengelompokkan teks dan mungkin digunakan untuk memberikan tampilan atau gaya khusus pada bagian ini.
+<h2>Pemesanan</h2>: Ini adalah elemen heading level 2 yang berisi teks "Pemesanan." Ini adalah judul bagian yang berkaitan dengan pemesanan produk.
+<p style="text-align: center;"> ... </p>: Ini adalah elemen paragraf dengan gaya CSS inline yang mengatur tata letak paragraf menjadi tengah dengan "text-align: center." Paragraf ini berisi teks yang menjelaskan bahwa produk kue dapat dipesan melalui aplikasi dan layanan pengiriman.
+<div class="partner-list">: Ini adalah elemen div dengan atribut class "partner-list." Elemen ini mungkin digunakan untuk mengelompokkan daftar mitra atau platform pemesanan.
+<div class="kartu-partner">: Ini adalah elemen div dengan atribut class "kartu-partner." Elemen ini digunakan untuk mengelencengkan setiap mitra atau platform pemesanan.
+<a href="https://gofood.co.id/en">: Ini adalah elemen anchor (tautan) dengan atribut href yang mengarahkan ke situs web Go Food. Ketika pengguna mengklik tautan ini, mereka akan diarahkan ke situs Go Food.
+<img src="shopefood.png">: Ini adalah elemen gambar yang menampilkan gambar logo atau ikon Go Food. Gambar ini mungkin digunakan untuk mengidentifikasi mitra tersebut.
+<p>Go Food</p>: Ini adalah elemen paragraf yang berisi teks "Go Food," yang mungkin digunakan untuk memberikan label pada mitra.
+
+![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/124486941/7084e024-cceb-4b7d-8376-383e66885dea)
+
+![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/124486941/83a7a8da-d878-4754-af91-62ed24f09f15)
+
+<div id="contact">: Ini adalah elemen div dengan atribut id "contact." Elemen ini mungkin digunakan untuk mengelompokkan konten yang berkaitan dengan informasi kontak, seperti alamat dan rincian kontak.
+<div class="wrapper">: Ini adalah elemen div dengan atribut class "wrapper." Sepertinya ini digunakan untuk mengelencengkan konten ke tengah atau untuk mengaplikasikan gaya tertentu pada bagian ini.
+<div class="footer">: Ini adalah elemen div dengan atribut class "footer." Elemen ini mungkin digunakan untuk mengelencengkan dan mengelompokkan konten di dalam bagian footer halaman web.
+<div class="footer-section">: Ini adalah elemen div dengan atribut class "footer-section." Sepertinya ini digunakan untuk mengelencengkan setiap bagian dalam footer, termasuk "SI CAKIES," "Contact," dan "Social."
+<h3>SI CAKIES</h3>: Ini adalah elemen heading level 3 yang berisi teks "SI CAKIES." Ini mungkin digunakan untuk menyoroti nama atau judul halaman web.
+<h3>Contact</h3>: Ini adalah elemen heading level 3 yang berisi teks "Contact." Ini digunakan untuk menandai bagian yang berisi informasi kontak.
+Alamat dan rincian kontak: Informasi kontak seperti alamat fisik, nomor telepon, dan kode pos diberikan dalam elemen paragraf (<p>). Ini adalah informasi kontak yang dapat digunakan oleh pengguna untuk menghubungi pemilik situs web.
+<h3>Social</h3>: Ini adalah elemen heading level 3 yang berisi teks "Social." Ini mungkin digunakan untuk menandai bagian yang berisi tautan ke akun media sosial.
+<div id="copyright">: Ini adalah elemen div dengan atribut id "copyright." Elemen ini mungkin digunakan untuk mengelompokkan informasi hak cipta.
+
 B. CSS
+
+![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/124486941/0928876c-851c-4695-833e-2f1ff124e0ad)
+
+![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/124486941/83cf4d89-5eec-4b66-a693-8262a807c20b)
+
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');: Ini adalah aturan @import yang mengimpor jenis font "Poppins" dari Google Fonts. Font ini memiliki beberapa varian berat (400, 500, 600, dan 700) yang dapat digunakan dalam halaman web Anda.
+*{ text-decoration: none; margin: 0px; padding: 0px; }: Ini adalah reset CSS dasar yang menghilangkan dekorasi tautan (underline), mengatur margin dan padding ke nol untuk semua elemen HTML, dan menghapus sebagian besar gaya default yang diterapkan oleh browser.
+body{ margin: 0px; padding: 0px; font-family: poppins; }: Ini mengatur margin dan padding elemen "body" menjadi nol dan mengatur jenis font default untuk seluruh halaman web sebagai "Poppins."
+.wrapper{ … }: Ini adalah gaya untuk elemen dengan class "wrapper." Pengaturan termasuk: width: 1100px;: Mengatur lebar elemen "wrapper" menjadi 1100 piksel.margin: auto;:  Mengatur elemen "wrapper" agar berada di tengah secara horizontal dalam tata letak. position: relative;: Mengatur elemen ini dengan posisi relatif.
+.judul a{ ... }: Ini adalah gaya untuk elemen dengan class "judul" yang berisi tautan (anchor). Beberapa pengaturan termasuk: font-size: 50px;: Mengatur ukuran teks menjadi 50 piksel. font-weight: 800; font-weight: bold;: Mengatur berat font menjadi bold dan dengan nilai numerik 800. float: left;: Mengatur tautan agar mengapung ke sisi kiri. font-family: 'montserrat', poppins, poppins;: Mengatur jenis font dengan prioritas yang berisi "montserrat" dan jika tidak tersedia, maka "Poppins" digunakan. color: #d0d9c4;: Mengatur warna teks menjadi "#d0d9c4."
+.wrapper p{ text-indent: 45px; }: Ini adalah gaya untuk elemen paragraf yang berada dalam elemen dengan class "wrapper." Ini mengatur indentasi teks paragraf sejauh 45 piksel dari margin kiri.
+.menu{ float: right; }: Ini mengatur elemen dengan class "menu" agar mengapung ke sisi kanan.
+nav { ... }: Ini adalah gaya untuk elemen "nav." Beberapa pengaturan termasuk: width: 100%;: Mengatur lebar elemen "nav" menjadi 100% lebar tampilan. margin: auto;: Mengatur elemen "nav" agar berada di tengah secara horizontal. display: flex;: Mengatur elemen "nav" agar menggunakan tata letak fleksibel (flex layout).line-height: 80px;: Mengatur ketinggian garis teks (line-height) menjadi 80 piksel. position: sticky; position: -webkit-sticky; top: 0;: Mengatur elemen "nav" agar menempel di bagian atas layar saat pengguna menggulir halaman (sticky navigation). background: #618264;: Mengatur latar belakang elemen "nav" menjadi warna #618264 (hijau). z-index: 1;: Mengatur indeks-z untuk mengontrol tumpukan elemen, yang mungkin diperlukan ketika elemen "nav" menempel di atas elemen lain.border-bottom: 5px solid #fefefe;: Menambahkan garis bawah dengan ketebalan 5 piksel dan warna #fefefe  pada elemen "nav."
+
+![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/124486941/bc8dce29-bc69-483d-8c98-c66ee3b6e100)
+
+nav ul { ... }: Ini adalah gaya yang diterapkan pada elemen ul (unordered list) yang berada dalam elemen "nav." Beberapa pengaturan termasuk: list-style-type: none;: Menghilangkan tanda penomoran atau poin yang biasanya muncul di daftar. margin: 0; padding: 0;: Menghapus margin dan padding bawaan dari elemen ul. overflow: hidden;: Mengatasi masalah "float" di elemen-elemen anak sehingga elemen "nav" meliputi elemen anak yang mengapung.
+nav ul li { ... }: Ini adalah gaya yang diterapkan pada elemen li (list item) yang berada dalam elemen ul dalam elemen "nav." Ini mengatur elemen-elemen li agar mengapung ke sisi kiri (float: left), sehingga menu navigasi akan disusun secara horizontal.
+nav ul li a { ... }: Ini adalah gaya yang diterapkan pada elemen a (anchor) yang berada dalam elemen li dalam elemen ul dalam elemen "nav." Beberapa pengaturan termasuk: text-align: center;: Mengatur teks tautan agar terletak di tengah secara horizontal. color: hsl(35, 56%, 52%);: Mengatur warna teks tautan menggunakan model warna HSL.padding: 0px 16px 0px 16px;: Mengatur ruang di sekitar teks tautan, yaitu 16 piksel di sisi kanan dan kiri. text-decoration: none;: Menghilangkan garis bawah default yang muncul di tautan. font-weight: bold;: Mengatur teks tautan menjadi tebal (bold). font-size: 20px;: Mengatur ukuran font menjadi 20 piksel.
+nav ul li a:hover { ... }: Ini adalah gaya yang diterapkan pada tautan saat pengguna mengarahkan kursor (hover) ke atasnya. Ini mengatur tautan agar memiliki garis bawah saat dihover.
+section { ... }: Ini adalah gaya yang diterapkan pada elemen "section." Beberapa pengaturan termasuk: margin: auto;: Mengatur elemen "section" agar terletak di tengah secara horizontal dalam tata letak. display: flex;: Mengatur elemen "section" agar menggunakan tata letak fleksibel (flex layout). margin-bottom: 50px;: Menambahkan margin bawah sebanyak 50 piksel di antara elemen "section."
+#home { ... }: Ini adalah gaya yang diterapkan pada elemen dengan id "home." Beberapa pengaturan termasuk: background: #F5F5DC;: Mengatur latar belakang elemen "home" menjadi warna #F5F5DC (beige). margin-left: -10%; margin-right: -5%;: Mengatur margin kiri dan kanan elemen "home" untuk membuatnya lebih lebar daripada lebar tampilan standar.
+.kolom { ... }: Ini adalah gaya yang diterapkan pada elemen dengan class "kolom." Beberapa pengaturan termasuk: margin-top: 50px; margin-bottom: 50px;: Menambahkan margin atas dan bawah elemen "kolom" sebanyak 50 piksel. font-family: poppins, poppins, poppins;: Mengatur jenis font yang digunakan dalam elemen ini sebagai "Poppins." #courses { ... }: Ini adalah gaya yang diterapkan pada elemen dengan id "courses." Beberapa pengaturan termasuk: background: #d6ab81;: Mengatur latar belakang elemen "courses" menjadi warna #d6ab81 (cokelat muda). padding: 50px 0px 30px 0px;: Mengatur padding (ruang dalam elemen) pada elemen "courses."
+
+![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/124486941/df85d6f6-830d-4fe8-84cc-83916ccfd8da)
+
+![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/124486941/9d6d2531-6d2a-4da2-bd5e-1d8e928a2bed)
+
+h2 { ... }: Ini adalah gaya yang diterapkan pada elemen heading level 2 (h2). Beberapa pengaturan termasuk: font-family: 'poppins';: Mengatur jenis font untuk teks h2 sebagai "Poppins." font-weight: 800;: Mengatur berat font menjadi 800, yang mungkin menghasilkan teks yang lebih tebal atau bold. font-size: 40px;: Mengatur ukuran font h2 menjadi 40 piksel. margin-bottom: 10px;: Menambahkan margin bawah sebanyak 10 piksel. margin-left: 5%;: Mengatur margin kiri sebanyak 5% dari lebar tampilan. width: 100%;: Mengatur lebar elemen h2 menjadi 100% dari lebar orang tua (jika ada). line-height: 50px;: Mengatur tinggi baris (line-height) h2 menjadi 50 piksel.
+a.signup { ... } dan a.tombol { ... }: Ini adalah gaya yang diterapkan pada tautan dengan class "signup" dan "tombol." Beberapa pengaturan termasuk: background: #dac0a3;: Mengatur latar belakang tautan menjadi warna #dac0a3. border-radius: 20px;: Mengatur sudut tautan sehingga tampil dengan sudut bulat (border radius). margin-top: 20px;: Menambahkan margin atas sebanyak 20 piksel.padding: 15px 20px 15px 20px;: Mengatur ruang dalam tautan di sekitar  teks. color: #ffffff;: Mengatur warna teks tautan menjadi putih (#ffffff). cursor: pointer;: Mengubah ikon kursor saat mengarahkan ke tautan, menunjukkan bahwa itu adalah tautan yang dapat diklik. font-weight: bold;: Mengatur teks tautan menjadi tebal.
+p { ... }: Ini adalah gaya yang diterapkan pada elemen paragraf (p). Beberapa pengaturan termasuk: margin: 10px 10px 10px 10px; padding: 10px 10px 10px 10px;: Mengatur margin dan padding paragraf sebanyak 10 piksel di semua sisi. text-align: justify;: Mengatur teks paragraf agar rata kanan-kiri (justified). 
+.kelas1 { ... }: Ini adalah gaya yang diterapkan pada elemen dengan class "kelas1." Pengaturan termasuk: margin-left: 5%;: Mengatur margin kiri elemen sebanyak 5% dari lebar tampilan.
+.gambar1 { ... } dan .gambar2 { ... }: Ini adalah gaya yang diterapkan pada elemen-elemen dengan class "gambar1" dan "gambar2." Beberapa pengaturan termasuk: margin: 3%;: Menambahkan margin sebanyak 3% dari semua sisi elemen. margin-top: 3%;: Menambahkan margin atas sebanyak 3%. display: block;: Mengubah elemen menjadi elemen blok yang memenuhi lebar orang tua dan tidak berbagi baris dengan elemen lain yang mungkin ada di sampingnya. margin-left: 5%;: Mengatur margin kiri sebanyak 5% dari lebar tampilan.
+
+![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/124486941/e6ae9de8-c7bb-4990-b2f4-66fb05b457b6)
+
+![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/124486941/b6f0323c-fc17-491a-bd2d-fbfad4d372d5)
+
+.gambar3 { ... }: Ini adalah gaya yang diterapkan pada elemen dengan class "gambar3." Beberapa pengaturan termasuk: margin: 3%;: Menambahkan margin sebanyak 3% dari semua sisi elemen. margin-top: 1%;: Menambahkan margin atas sebanyak 1%. display: block;: Mengubah elemen menjadi elemen blok. margin-left: 5%;: Mengatur margin kiri elemen sebanyak 5% dari lebar tampilan. 
+.tengah { ... }: Ini adalah gaya yang diterapkan pada elemen dengan class "tengah." Pengaturan termasuk: text-align: center;: Mengatur teks dalam elemen ini agar terletak di tengah secara horizontal. width: 95%;: Mengatur lebar elemen menjadi 95% dari lebar tampilan.
+.partner-list { ... }: Ini adalah gaya yang diterapkan pada elemen dengan class "partner-list." Beberapa pengaturan termasuk: width: 100%;: Mengatur lebar elemen menjadi 100% dari lebar orang tua (container). position: relative;: Mengatur posisi elemen tersebut sebagai relatif. display: flex;: Mengatur elemen ini menggunakan tata letak fleksibel (flex layout). flex-wrap: wrap;: Mengatur elemen-elemen anak agar membungkus ke baris baru jika tidak cukup ruang.
+.kartu-partner { ... }: Ini adalah gaya yang diterapkan pada elemen dengan class "kartu-partner." Pengaturan termasuk: width: 20%;: Mengatur lebar elemen menjadi 20% dari lebar orang tua (container). margin: 0 auto;: Mengatur margin atas dan bawah menjadi 0 dan margin kiri dan kanan secara otomatis agar elemen tetap di tengah.
+.kartu-tutor img { ... }: Ini adalah gaya yang diterapkan pada gambar (img) yang mungkin ada dalam elemen dengan class "kartu-tutor." Pengaturan termasuk: width: 80%;: Mengatur lebar gambar menjadi 80% dari lebar elemen yang mengandungnya.
+.kartu-tutor p { ... }: Ini adalah gaya yang diterapkan pada teks paragraf (p) yang mungkin ada dalam elemen dengan class "kartu-tutor." Beberapa pengaturan termasuk: font-family: 'poppins';: Mengatur jenis font teks sebagai "Poppins." font-weight: 800;: Mengatur berat font menjadi 800. font-size: 25px;: Mengatur ukuran font menjadi 25 piksel. text-align: center;: Mengatur teks agar terletak di tengah secara horizontal. color: rgb(13, 219, 219);: Mengatur warna teks menggunakan model warna RGB.
+#contact { ... }: Ini adalah gaya yang diterapkan pada elemen dengan id "contact." Beberapa pengaturan termasuk: background: #dedede;: Mengatur latar belakang elemen "contact" menjadi warna #dedede. padding: 50px 0px 30px 0px;: Mengatur padding (ruang dalam elemen) pada elemen "contact." margin-left: -10%; margin-right: -5%;: Mengatur margin kiri dan kanan elemen "contact" untuk membuatnya lebih lebar daripada lebar tampilan standar.
+
+![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/124486941/2e8adbeb-0400-405a-bf57-7891a39e2544)
+
+![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/124486941/1f6341e6-6ded-4021-b850-c7ef60739ca8)
+
+}
+.footer { ... }: Ini adalah gaya yang diterapkan pada elemen dengan class "footer." Beberapa pengaturan termasuk: width: 100%;: Mengatur lebar elemen "footer" menjadi 100% dari lebar orang tua (container). position: relative;: Mengatur posisi elemen sebagai relatif. display: flex;: Mengatur elemen ini menggunakan tata letak fleksibel (flex layout). flex-wrap: wrap;: Mengatur elemen-elemen anak agar membungkus ke baris baru jika tidak cukup ruang. margin: auto;: Mengatur elemen "footer" agar berada di tengah secara horizontal.
+.footer-section { ... }: Ini adalah gaya yang diterapkan pada elemen dengan class "footer-section." Beberapa pengaturan termasuk: width: 30%;: Mengatur lebar elemen "footer-section" menjadi 30% dari lebar orang tua (container). margin: 0 auto;: Mengatur margin kiri dan kanan elemen "footer-section" agar tetap di tengah.
+h3 { ... }: Ini adalah gaya yang diterapkan pada elemen heading level 3 (h3). Beberapa pengaturan termasuk: font-family: 'poppins';: Mengatur jenis font untuk teks h3 sebagai "Poppins." font-weight: 800;: Mengatur berat font menjadi 800. font-size: 30px;: Mengatur ukuran font h3 menjadi 30 piksel. margin-bottom: 30px;: Menambahkan margin bawah sebanyak 30 piksel. color: #052822;: Mengatur warna teks menjadi #052822. width: 100%;: Mengatur lebar elemen h3 menjadi 100% dari lebar orang tua. line-height: 0px;: Mengatur tinggi baris (line-height) h3 menjadi 0 piksel.
+#copyright { ... }: Ini adalah gaya yang diterapkan pada elemen dengan id "copyright." Beberapa pengaturan termasuk: text-align: center;: Mengatur teks dalam elemen ini agar terletak di tengah secara horizontal. width: 100%;: Mengatur lebar elemen "copyright" menjadi 100% dari lebar orang tua. padding: 50px 0px 50px 0px;: Mengatur padding (ruang dalam elemen) pada elemen "copyright." margin-top: 30px;: Menambahkan margin atas sebanyak 30 piksel.
+
+
+#partners { ... }: Ini adalah gaya yang diterapkan pada elemen dengan id "partners." Beberapa pengaturan termasuk:background: #B0D9B1;: Mengatur latar belakang elemen "partners" menjadi warna #B0D9B1. padding: 50px 0px 30px 0px;: Mengatur padding pada elemen "partners." margin-left: -10%; margin-right: -5%;: Mengatur margin kiri dan kanan elemen "partners" untuk membuatnya lebih lebar daripada lebar tampilan standar.
+.beli { ... }: Ini adalah gaya yang diterapkan pada elemen dengan class "beli." Beberapa pengaturan termasuk: background: #79AC78;: Mengatur latar belakang elemen "beli" menjadi warna #79AC78. border-radius: 20px;: Mengatur sudut elemen "beli" menjadi bulat. margin-top: 20px;: Menambahkan margin atas sebanyak 20 piksel. padding: 10px 20px 10px 20px;: Mengatur ruang dalam elemen "beli" di sekitar teks. color: #ffffff;: Mengatur warna teks menjadi putih (#ffffff). cursor: pointer;: Mengubah ikon kursor saat mengarahkan ke elemen "beli," menunjukkan bahwa itu adalah elemen yang dapat diklik. font-weight: bold;: Mengatur teks elemen "beli" menjadi tebal.
+
 
 C. HTML LOGIN
 
