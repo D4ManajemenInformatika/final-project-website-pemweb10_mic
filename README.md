@@ -56,6 +56,19 @@ FITUR SISTEM DAN KERANGKA DESAIN FITUR
     4.4.1 Deskripsi dan Prioritas
     4.4.2 Kebutuhan Fungsional
 
+BAB V
+PERSYARATAN NONFUNGSIONAL LAINNYA
+5.1 Persyaratan Kinerja
+5.2 Persyaratan Keselamatan dan Keamanan
+5.3 Atribut Kualitas Perangkat Lunak
+5.4 Aturan Bisnis
+
+BAB VI
+PERSYARATAN LAINNYA
+6.1 Glosarium
+6.2 Use Case
+6.3 Flowchart
+
 Laporan Tugas Pemrograman Web SRS Si Cookies
 
 Disusun oleh:
