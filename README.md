@@ -32,14 +32,22 @@ Universitas Negeri Surabaya
 ![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/124486941/820cd24c-c5e0-464e-8735-a1824389abe7)
 
 
-[hai] <body>: Ini adalah elemen HTML yang menunjukkan awal dari konten halaman web yang akan ditampilkan kepada pengguna. Semua elemen HTML yang terlihat di halaman web akan ditempatkan di dalam elemen <body> ini.
+ [body]: Ini adalah elemen HTML yang menunjukkan awal dari konten halaman web yang akan ditampilkan kepada pengguna. Semua elemen HTML yang terlihat di halaman web akan ditempatkan di dalam elemen <body> ini.
+ 
 [nav]: Ini adalah elemen HTML yang digunakan untuk menentukan bagian navigasi dalam halaman web. Biasanya, elemen ini berisi tautan-tautan menu untuk membantu pengguna berpindah antara halaman atau bagian halaman web.
+
 [div class="wrapper"]: Ini adalah elemen div dengan atribut class yang disebut "wrapper." Elemen div digunakan untuk mengelompokkan atau mengelencengkan sejumlah elemen HTML untuk mengaplikasikan gaya CSS atau JavaScript tertentu. Di sini, "wrapper" mungkin digunakan untuk mengelompokkan elemen-elemen lain dalam tampilan yang sama.
+
 [div class="judul"]: Ini adalah elemen div dengan atribut class yang disebut "judul." Sepertinya ini digunakan untuk mengelompokkan judul atau logo situs web. Terdapat juga sebuah tautan (<a>) yang kosong di dalamnya yang kemungkinan besar akan ditautkan ke halaman beranda atau ke URL lain.
+
 [div class="menu"]: Ini adalah elemen div dengan atribut class yang disebut "menu." Ini mungkin digunakan untuk mengelompokkan elemen-elemen menu.
+
 [ul]: Ini adalah elemen unordered list (daftar tak terurut) yang digunakan untuk membuat daftar item yang berisi tautan menu.
+
 [li]: Ini adalah elemen list item yang merupakan anak-anak dari elemen <ul>. Setiap <li> adalah item dalam daftar menu.
+
 [a]: Ini adalah elemen anchor (tautan) yang digunakan untuk membuat tautan ke halaman lain atau ke bagian lain di halaman web yang saat ini dilihat. Setiap tautan memiliki atribut href yang menentukan URL tautan.
+
 [a] dengan class "signup": Ini adalah tautan yang memiliki class "signup." Class ini mungkin digunakan untuk memberikan tampilan atau perilaku yang berbeda untuk tautan ini, misalnya, tautan "Join Us!" dapat diubah warnanya dengan CSS.
 
 ![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/124486941/1972636f-545a-4cda-81cc-e0fb11c124c0)
