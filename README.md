@@ -28,29 +28,52 @@ Universitas Negeri Surabaya
 
 
 [!DOCTYPE html]: Ini adalah deklarasi tipe dokumen HTML yang digunakan dalam dokumen. Ini memberi tahu browser bahwa ini adalah dokumen HTML.
+
 [html lang="en"]: Ini adalah elemen root yang membungkus seluruh konten halaman web.
+
 Atribut lang mengindikasikan bahwa bahasa yang digunakan dalam dokumen adalah bahasa Inggris (English).
+
 [head]: Bagian ini mengandung informasi tentang halaman web, seperti meta tag, judul halaman, dan tautan ke berkas-berkas eksternal seperti CSS.
+
 • [meta charset="UTF-8"]: Menentukan bahwa karakter set yang digunakan dalam halaman web adalah UTF-8, yang mendukung karakter internasional.
+
 • [meta name="viewport" content="width=device-width, initial-scale=1.0"]: Ini adalah pengaturan untuk mengatur tampilan halaman web di perangkat seluler. Itu akan mengizinkan tampilan responsif pada perangkat berlayar kecil.
+
 • [title]tugas[/title]: Ini adalah judul dari halaman web yang akan ditampilkan di tab browser.
+
 • [link rel="stylesheet" href="satu.css"]: Ini adalah tautan ke berkas CSS eksternal dengan nama "satu.css" yang akan mengatur tampilan halaman.
+
 [body]: Ini adalah elemen yang mengandung semua konten yang akan ditampilkan di halaman web, termasuk navigasi, teks, gambar, dan lainnya.
+
 [nav]: Ini adalah elemen yang mengandung elemen-elemen yang membentuk menu navigasi situs web.
+
 • [div class="wrapper"]: Ini adalah div dengan kelas "wrapper" yang digunakan untuk mengelompokkan elemen-elemen dalam navigasi.
+
 • [div class="judul"]: Ini adalah div dengan kelas "judul" yang berisi tautan (link) ke halaman utama situs ("SI CAKIES").
+
 • [div class="menu"]: Ini adalah div dengan kelas "menu" yang berisi daftar tautan navigasi dalam sebuah daftar tidak berurutan (unordered list).
+
 [section id="home"]: Ini adalah bagian pertama dari halaman web, dengan atribut id yang digunakan untuk menandai bagian ini.
+
 • [img src="logo.png" width="40%"]: Ini adalah elemen gambar yang menampilkan logo dengan lebar 40% dari lebar kontainer.
+
 • [div class="kolom"]: Ini adalah div dengan kelas "kolom" yang berisi teks dan informasi tentang situs web.
+
 • Beberapa paragraf dan poin dijelaskan dengan tag [p].
+
 • Ada pula tautan "Pelajari Lebih Lanjut" dengan kelas "tombol".
+
 [section id="courses"]: Ini adalah bagian kedua dari halaman web dengan atribut id yang mengidentifikasinya sebagai "courses".
+
 • Ini berisi informasi tentang produk-produk yang ditawarkan, termasuk gambar produk dan harga.
+
 • Setiap produk ditempatkan dalam div dengan kelas "gambar1," "gambar2," dan "gambar3."
+
 [section id="partners"]: Ini adalah bagian ketiga dari halaman web dengan atribut id yang mengidentifikasinya sebagai "partners".
+
 • Ini berisi informasi tentang cara memesan produk, dengan daftar tautan ke layanan pengiriman makanan seperti Go Food, Shopee Food, dan Grab Food.
 [div id="contact"]: Ini adalah bagian keempat dari halaman web yang berisi informasi kontak tentang bisnis "SI CAKIES." Ini mencakup alamat fisik, media sosial, dan nomor telepon.
+
 [div id="copyright"]: Ini adalah bagian terakhir dari halaman web yang berisi hak cipta dan nama situs.
 
 B. CSS
