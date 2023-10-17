@@ -206,4 +206,60 @@ required: Membuat input ini menjadi wajib diisi sebelum formulir dapat dikirim.
 
 D. CSS LOGIN
 
+ ![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/120777302/7981b22e-298a-4e69-af72-a0f8a9c5a138)
+
+![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/120777302/82abe38e-7900-4e53-93fc-edc2df760154)
+
+![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/120777302/d65ca344-d13d-4dd0-9603-3fe956d6432d)
+ 
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');: Ini adalah aturan @import yang digunakan untuk mengimpor jenis huruf Poppins dari Google Fonts. Ini akan membuat jenis huruf Poppins tersedia untuk digunakan dalam halaman web Anda.
+*: Ini adalah selektor universal yang berlaku untuk semua elemen HTML. Aturan ini mengatur beberapa nilai yang akan berlaku secara global, termasuk: margin: 0; padding: 0;: Ini menghapus margin dan padding default dari semua elemen. box-sizing: border-box;: Ini mengatur model kotak (box model) sehingga padding dan border termasuk dalam perhitungan lebar dan tinggi elemen. font-family: 'Poppins', sans-serif;: Ini mengatur jenis huruf default ke Poppins, dan jika Poppins tidak tersedia, jenis huruf sans-serif akan digunakan sebagai cadangan.
+html, body: Ini adalah selektor untuk elemen HTML dan body. Ini mengatur tata letak halaman web dengan memanfaatkan fitur CSS Grid dan place-items: center untuk mengatur elemen-elemen di tengah halaman. Latar belakang halaman web didefinisikan sebagai gradasi radial dengan warna-warna yang berbeda.
+
+::selection: Ini adalah pseudo-element ::selection yang digunakan untuk menggaya teks yang dipilih oleh pengguna. Ini mengatur latar belakang dan warna teks teks yang dipilih.
+.wrapper: Ini adalah selektor class yang menggaya elemen dengan class "wrapper". Elemen ini adalah wadah utama untuk konten halaman web dan memiliki beberapa properti yang mengatur tampilannya, seperti lebar maksimum, latar belakang, padding, border-radius, dan bayangan (box-shadow).
+.wrapper .title-text: Ini adalah selektor untuk elemen dengan class "title-text" yang berada di dalam elemen dengan class "wrapper". Elemen ini digunakan untuk mengatur tampilan judul dan konten dalam tata letak yang sesuai.
+.wrapper .title: Ini adalah selektor untuk elemen dengan class "title" yang juga berada di dalam elemen dengan class "wrapper". Ini mengatur tampilan judul, termasuk ukuran font, tebal font, dan perubahan tampilan judul saat terjadi transisi.
+.wrapper .slide-controls: Ini adalah selektor untuk elemen dengan class "slide-controls" yang juga berada di dalam elemen dengan class "wrapper". Ini mengatur tampilan kontrol slide yang digunakan untuk mengganti antara tampilan judul.
+ 
+![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/120777302/2640cb7b-9cfc-43c6-99e7-f9b30ba1e455)
+
+![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/120777302/4098a596-491a-42d9-868d-00286c5fd9d1)
+
+![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/120777302/f0960291-5f2e-448f-b1f2-5ef071f5494b)
+ 
+.slide-controls .slide: Ini adalah selektor untuk elemen slide di dalam kontrol slide. Ini mengatur tampilan elemen-elemen slide, termasuk warna, ukuran font, tebal font, dan pengaturan tampilan lainnya.
+.slide-controls label.signup: Ini adalah selektor untuk label dengan class "signup" di dalam kontrol slide. Ini mengatur warna teks untuk label dengan class "signup".
+.slide-controls .slider-tab: Ini adalah selektor untuk elemen slider-tab di dalam kontrol slide. Ini mengatur tampilan slider-tab, termasuk latar belakang gradient yang berubah saat terjadi transisi.
+input[type="radio"]: Ini adalah selektor untuk elemen input radio. Aturan ini menyembunyikan input radio karena tidak ingin menampilkannya kepada pengguna. Input radio ini digunakan untuk mengontrol tampilan judul "Login" dan "Daftar" pada halaman.
+#signup:checked~.slider-tab: Ini adalah aturan yang akan berlaku saat input radio dengan ID "signup" dicentang. Ini mengubah posisi slider-tab untuk menunjukkan "Daftar".
+#signup:checked~label.signup dan #signup:checked~label.login: Ini adalah aturan yang akan berlaku saat input radio dengan ID "signup" dicentang. Mereka mengubah warna teks label "Daftar" dan "Login" untuk menunjukkan tampilan yang sesuai.
+#login:checked~label.signup dan #login:checked~label.login: Ini adalah aturan yang akan berlaku saat input radio dengan ID "login" dicentang. Mereka mengubah warna teks label "Daftar" dan "Login" untuk menunjukkan tampilan yang sesuai.
+.wrapper .form-container: Ini adalah selektor untuk elemen dengan class "form-container" yang berada di dalam elemen dengan class "wrapper". Ini mengatur tampilan kontainer yang berisi formulir.
+.form-container .form-inner: Ini adalah selektor untuk elemen dengan class "form-inner" yang berada di dalam elemen dengan class "form-container". Ini mengatur tampilan elemen yang berisi formulir.
+.form-container .form-inner form: Ini adalah selektor untuk elemen form di dalam elemen dengan class "form-inner". Ini mengatur tampilan dari elemen form. Terdapat transisi yang membuatnya berubah tampilan saat beralih antara "Login" dan "Daftar".
+ 
+ ![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/120777302/c2d78f21-d0ed-41c6-8703-24e4b0658df8)
+
+![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/120777302/951f944d-027c-4b1f-bca1-1993cff69685)
+ 
+![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/120777302/0a77d330-f879-48fa-97eb-08ed62e76453)
+
+![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/120777302/96258ea5-9323-4de7-afdf-3bb18582ca96)
+
+ 
+.form-inner form .field: Ini adalah selektor untuk elemen field (bidang) dalam formulir. Ini mengatur ketinggian, lebar, dan margin atas dari bidang.
+.form-inner form .field input: Ini adalah selektor untuk elemen input dalam bidang formulir. Ini mengatur tampilan elemen input, termasuk ketinggian, lebar, tampilan luar (outline), padding, radius sudut (border-radius), dan lain-lain.
+.form-inner form .field input:focus: Ini adalah tampilan elemen input saat fokus diberikan ke elemen. Ini mengubah warna border saat elemen input mendapatkan fokus.
+.form-inner form .field input::placeholder: Ini mengatur tampilan teks placeholder dalam elemen input. Ini mengubah warna teks placeholder dan animasi saat elemen input mendapatkan fokus.
+form .field input:focus::placeholder: Ini mengatur tampilan teks placeholder saat elemen input dalam formulir mendapatkan fokus.
+.form-inner form .pass-link dan .form-inner form .signup-link: Ini adalah selektor untuk elemen-elemen yang berisi tautan "Lupa password?" dan "Buat akun!" di dalam formulir. Ini mengatur margin dan tampilan teks tautan.
+
+.form-inner form .pass-link a dan .form-inner form .signup-link a: Ini mengatur tampilan tautan dalam formulir, termasuk warna dan tampilan teks tautan.
+form .btn: Ini adalah selektor untuk elemen tombol dalam formulir. Ini mengatur ketinggian, lebar, border-radius, dan elemen lainnya.
+form .btn .btn-layer: Ini adalah elemen lapisan (layer) dalam tombol. Ini mengatur tampilan lapisan tombol, termasuk transisi lapisan saat tombol dihover.
+form .btn:hover .btn-layer: Ini mengatur perubahan posisi lapisan tombol saat tombol dihover.
+form .btn input[type="submit"]: Ini adalah elemen input dengan tipe "submit" dalam formulir. Ini mengatur tampilan tombol submit, termasuk ketinggian, lebar, tampilan luar (outline), warna latar belakang, border, dan lain-lain.
+
+
 E. JAVASCRIPT
